@@ -2,7 +2,7 @@ body {
     background-color: black;
 }
 
-h1, h2, p, figcaption {
+h1, h2, p, figure {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
